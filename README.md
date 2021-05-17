@@ -1,14 +1,12 @@
 # bearer-auth
 
-[github]()
+[github](https://github.com/naeemmusamh/bearer-auth)
 
-[github pull request]()
+[github pull request](https://github.com/naeemmusamh/bearer-auth/pull/2)
 
-[github live]()
+[github live](https://naeemmusamh.github.io/bearer-auth/)
 
 [heroku]()
-
-[]()
 
 # basic structure
 

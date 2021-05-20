@@ -37,4 +37,5 @@ a robust base64 encoder/decoder that is fully compatible written in JavaScript.
 
 # Demo
 
+
 ![bearer-auth](https://github.com/naeemmusamh/bearer-auth/blob/main/img/bearer-auth.png?raw=true)

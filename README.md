@@ -2,7 +2,7 @@
 
 [github](https://github.com/naeemmusamh/bearer-auth)
 
-[github pull request](https://github.com/naeemmusamh/bearer-auth/pull/2)
+[github pull request](https://github.com/naeemmusamh/bearer-auth/pull/3)
 
 [github live](https://naeemmusamh.github.io/bearer-auth/)
 
@@ -36,5 +36,6 @@ a robust base64 encoder/decoder that is fully compatible written in JavaScript.
 
 
 # Demo
+
 
 ![bearer-auth](https://github.com/naeemmusamh/bearer-auth/blob/main/img/bearer-auth.png?raw=true)
